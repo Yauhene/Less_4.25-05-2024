@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08927162-8ef4-4392-963b-b2e99e0aa0ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MyFirstThymleaf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/userProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/test/java/ru/jack/MyFirstThymleaf/MyFirstThymleafApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/userProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/users.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hJvrOgLux2HcSMcZjyFNbQYWAA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Java II/2_Часть_вторая/04. Spring/Урок 4. 25-05-2024. Spring MVC. Использование шаблонизатора Thymeleaf/MyFirstThymleaf"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.jack.MyFirstThymleaf.MyFirstThymleafApplication" />
+      <module name="MyFirstThymleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08927162-8ef4-4392-963b-b2e99e0aa0ca" name="Changes" comment="" />
+      <created>1717325192405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717325192405</updated>
+    </task>
+    <servers />
+  </component>
+</project>
