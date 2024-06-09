@@ -4,44 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08927162-8ef4-4392-963b-b2e99e0aa0ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MyFirstThymleaf.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/java/ru/jack/MyFirstThymleaf/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/greeting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/userProfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/test/java/ru/jack/MyFirstThymleaf/MyFirstThymleafApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/static/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/greeting.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/userProfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/users.html" afterDir="false" />
+    <list default="true" id="08927162-8ef4-4392-963b-b2e99e0aa0ca" name="Changes" comment="init+">
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/userProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/src/main/resources/templates/userProfile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/MyFirstThymleafApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/ru/jack/MyFirstThymleaf/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/userProfile.html" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstThymleaf/target/classes/templates/userProfile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +37,21 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2hJvrOgLux2HcSMcZjyFNbQYWAA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Java II/2_Часть_вторая/04. Spring/Урок 4. 25-05-2024. Spring MVC. Использование шаблонизатора Thymeleaf/MyFirstThymleaf"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Java II/2_Часть_вторая/04. Spring/Семинар 4. Spring. 27-05-2024/spring-thymeleaf-demo"
   }
 }]]></component>
   <component name="RunManager">
@@ -95,6 +72,29 @@
       <option name="presentableId" value="Default" />
       <updated>1717325192405</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1717334528286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717334528286</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init+">
+      <option name="closed" value="true" />
+      <created>1717334615356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717334615356</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <MESSAGE value="init+" />
+    <option name="LAST_COMMIT_MESSAGE" value="init+" />
   </component>
 </project>
